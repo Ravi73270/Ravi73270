@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Sahu</h1>
-<h3 align="center">Fresher CSE Student Currently Learning Web Development and CS Fundamentals</h3>
+<h3 align="center">Fresher CSE Student Currently Learning DSA IN JAVA (SPRINGBOOT)</h3>
 
 - 🌱 I’m currently learning **Python with Django**
 
