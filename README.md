@@ -133,15 +133,3 @@ Working On:
 
 
 
-## 🗄 Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-<p>
-🔹 MongoDB  
-🔹 MySQL  
-🔹 SQL Queries  
-🔹 Schema Design  
-🔹 Joins & Indexing  
-</p>
