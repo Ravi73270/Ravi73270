@@ -74,6 +74,21 @@
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github" />
 </p>
 
+## 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+<p>
+🔹 MongoDB  
+🔹 MySQL  
+🔹 SQL Queries  
+🔹 Schema Design  
+🔹 Joins & Indexing  
+</p>
+
+
+
 ## 🛠 Tools & IDEs
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,idea,postman" />
