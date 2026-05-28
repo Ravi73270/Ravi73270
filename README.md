@@ -1,15 +1,132 @@
 <h1 align="center">Hi 👋, I'm Ravi Sahu</h1>
-<h3 align="center">Fresher CSE Student Currently Learning DSA IN JAVA (SPRINGBOOT)</h3>
+<h3 align="center">🚀 Software Developer | AI/ML Engineer | Full Stack Java Developer</h3>
 
-- 🌱 I’m currently learning **Python with Django**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/ravisahuofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravisahuofficial" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%26+Cloud+Enthusiast;Full+Stack+Java+Developer;Machine+Learning+Engineer;Generative+AI+Explorer;Open+Source+Learner" />
 </p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
 
+# 💫 About Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi73270&show_icons=true&locale=en&layout=compact" alt="ravi73270" /></p>
+🎓 B.Tech CSE Student (2022–2026)  
+💡 Passionate about AI-powered applications, Generative AI, and Full Stack Development  
+🔥 Exploring LLMs, RAG Pipelines, LangChain & Agentic AI  
+📈 Solved DSA problems on LeetCode & HackerRank  
+🚀 Looking for AI/ML & Software Development Internship Opportunities  
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/ravi-525b98230" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://github.com/Ravi73270" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="mailto:ravisahu2613@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
+
+---
+
+# 🚀 Tech Stack
+
+## 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql" />
+</p>
+
+## ⚡ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven,nodejs" />
+</p>
+
+## 🎨 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript" />
+</p>
+
+## 🤖 AI / Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p>
+🔹 Scikit-learn  
+🔹 Pandas  
+🔹 NumPy  
+🔹 Hugging Face  
+🔹 LangChain  
+🔹 FAISS  
+🔹 NLP  
+🔹 RAG Pipelines  
+🔹 Generative AI  
+</p>
+
+## ☁️ DevOps & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github" />
+</p>
+
+## 🛠 Tools & IDEs
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman" />
+</p>
+
+---
+
+# 📌 Featured Project
+
+## 📰 Fake News Detection System
+
+🔹 Built an ML-based Fake News Detection System using NLP & Scikit-learn  
+🔹 Achieved **94% accuracy** using Passive Aggressive Classifier  
+🔹 Used TF-IDF Vectorization, Tokenization & Lemmatization  
+🔹 Visualized results using Confusion Matrix  
+
+### 🛠 Tech Used
+`Python` `Scikit-learn` `NLTK` `Pandas` `Machine Learning`
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ravi73270&show_icons=true&theme=tokyonight" height="180em" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi73270&theme=tokyonight" height="180em" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi73270&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ravi73270&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+# 🔥 Current Focus
+
+```yaml
+Learning:
+  - Generative AI
+  - Agentic AI
+  - Spring Boot
+  - Docker & Kubernetes
+  - Advanced DSA
+
+Working On:
+  - AI-powered Applications
+  - Full Stack Projects
+  - Open Source Contributions
