@@ -130,3 +130,18 @@ Working On:
   - AI-powered Applications
   - Full Stack Projects
   - Open Source Contributions
+
+
+
+## 🗄 Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+<p>
+🔹 MongoDB  
+🔹 MySQL  
+🔹 SQL Queries  
+🔹 Schema Design  
+🔹 Joins & Indexing  
+</p>
